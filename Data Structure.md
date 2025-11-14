@@ -126,7 +126,6 @@ Chaining은 각 슬롯에 연결리스트를 두고, 같은 인덱스에 여러 
   <em>Chaining</em>
 </p>
 <br><br>
-<br><br>
 
 ## 8. 그래프와 cycle에 대해 설명해 보세요.
 
@@ -175,7 +174,6 @@ DFS(Depth-First Search)는 한 경로를 끝까지 탐색한 뒤 다른 경로�
   <img src="./img/Data%20Structure/BFS_DFS.png" width="300"><br>
   <em>BFS and DFS</em>
 </p>
-<br><br>
 <br><br>
 
 ## 13. Bitmap 자료구조에 대해 설명해 보세요.
