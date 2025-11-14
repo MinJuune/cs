@@ -5,7 +5,8 @@
 시간복잡도는 배열이 접근 시 O(1)으로 빠르고, 삽입/삭제 시 O(N)으로 느린 반면,   
 연결리스트는 접근 시 O(N)으로 느리고, 삽입/삭제 시 O(1)으로 빠릅니다.   
      
-![image.png](attachment:06985596-c01b-478b-9066-860391d2b780:image.png)    
+![array.png](./img/Data%20Structure/array.png)  
+![linked_list.png](./img/Data%20Structure/linked_list.png)      
 
 <br><br>
        
