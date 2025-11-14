@@ -116,6 +116,16 @@ Chaining은 각 슬롯에 연결리스트를 두고, 같은 인덱스에 여러 
   <img src="./img/Data%20Structure/hash_table.png" width="200"><br>
   <em>Hash Table</em>
 </p>
+<p align="center">
+  <img src="./img/Data%20Structure/open_addressinge.png" width="200"><br>
+  <em>Open Addressing</em>
+</p>
+<br><br>
+<p align="center">
+  <img src="./img/Data%20Structure/chaining.png" width="200"><br>
+  <em>Chaining</em>
+</p>
+<br><br>
 <br><br>
 
 ## 8. 그래프와 cycle에 대해 설명해 보세요.
